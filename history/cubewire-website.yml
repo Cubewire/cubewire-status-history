@@ -1,7 +1,4 @@
 - status: up
-  timestamp: '2025-11-19T10:55:25.155Z'
-  responseTime: 469
-- status: up
   timestamp: '2025-11-19T11:07:43.971Z'
   responseTime: 268
 - status: up
@@ -2998,3 +2995,6 @@
 - status: up
   timestamp: '2025-11-28T21:34:29.470Z'
   responseTime: 416
+- status: up
+  timestamp: '2025-11-28T21:43:36.936Z'
+  responseTime: 285
